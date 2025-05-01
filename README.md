@@ -1,16 +1,16 @@
-# evrenbot-privacy
+# pesetmez-privacy
 
-# EvrenBOT Gizlilik Politikası
+# PES ETMEZ Gizlilik Politikası
 
 **Güncellenme Tarihi:** 1 Mayıs 2025
 
-EvrenBOT’u kullandığınız için teşekkür ederiz. Kullanıcı gizliliğini önemsiyoruz ve aşağıda, botumuzun hangi verileri topladığı, nasıl kullandığı ve ne şekilde koruduğu açıklanmaktadır.
+PES ETMEZ’İ kullandığınız için teşekkür ederiz. Kullanıcı gizliliğini önemsiyoruz ve aşağıda, botumuzun hangi verileri topladığı, nasıl kullandığı ve ne şekilde koruduğu açıklanmaktadır.
 
 ---
 
 ### 1. Toplanan Veriler
 
-EvrenBOT, aşağıdaki bilgileri toplayabilir:
+PES ETMEZ, aşağıdaki bilgileri toplayabilir:
 
 - Kullanıcı adı ve kullanıcı kimliği  
 - Sunucu bilgileri (sunucu adı, sunucu kimliği)  
@@ -31,13 +31,13 @@ Toplanan veriler yalnızca şu amaçla kullanılır:
 
 ### 3. Veri Saklama
 
-EvrenBOT tarafından toplanan veriler **kalıcı olarak saklanır**. Bu, botun işlevselliğini sürdürebilmesi ve gerektiğinde destek sağlayabilmesi amacıyla yapılır.
+PES ETMEZ tarafından toplanan veriler **kalıcı olarak saklanır**. Bu, botun işlevselliğini sürdürebilmesi ve gerektiğinde destek sağlayabilmesi amacıyla yapılır.
 
 ---
 
 ### 4. Üçüncü Taraflarla Paylaşım
 
-EvrenBOT, topladığı hiçbir kullanıcı verisini üçüncü taraflarla **paylaşmaz**, **satmaz** ve **dağıtmaz**.
+PES ETMEZ, topladığı hiçbir kullanıcı verisini üçüncü taraflarla **paylaşmaz**, **satmaz** ve **dağıtmaz**.
 
 ---
 
